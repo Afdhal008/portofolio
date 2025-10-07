@@ -1,1 +1,2 @@
-# chatGPT
+# portofolio
+aku jago
