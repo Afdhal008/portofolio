@@ -1,2 +1,1 @@
-# portofolio
-web portofolio afdhal
+# chatGPT
